@@ -1,0 +1,22 @@
+{
+  "name": "voiceagent",
+  "description": "Let your assistant place real phone calls for you — book tables, confirm or move appointments, check opening hours — and report back with the outcome, a summary and the full transcript. The AI agent always says it is calling on your behalf.",
+  "version": "1.0.0",
+  "author": {
+    "name": "WorkHub Platform Inc.",
+    "email": "info@workhub.ai"
+  },
+  "homepage": "https://gb-voice-web.onrender.com",
+  "repository": "https://github.com/alinaqi/voiceagent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "phone",
+    "calls",
+    "voice",
+    "telephony",
+    "appointments",
+    "reservations",
+    "assistant"
+  ],
+  "logo": "assets/logo.svg"
+}
