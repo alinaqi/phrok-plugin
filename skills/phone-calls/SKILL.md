@@ -1,9 +1,9 @@
 ---
 name: phone-calls
-description: Place and follow up real outbound phone calls with the VoiceAgent tools (make_call, schedule_call, get_call, list_calls, hangup_call, get_account). Use when the user asks you to call someone, book or change a reservation or appointment, check opening hours or stock by phone, or asks how a call went.
+description: Place and follow up real outbound phone calls with the Phrok tools (make_call, schedule_call, get_call, list_calls, hangup_call, get_account). Use when the user asks you to call someone, book or change a reservation or appointment, check opening hours or stock by phone, or asks how a call went.
 ---
 
-# Phone calls with VoiceAgent
+# Phone calls with Phrok
 
 An AI voice agent makes the call, introduces itself as an AI assistant calling on the user's behalf,
 pursues the goal you give it, and reports back a transcript, summary and outcome.

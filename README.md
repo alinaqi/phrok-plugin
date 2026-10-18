@@ -1,12 +1,12 @@
-# VoiceAgent plugin
+# Phrok plugin
 
-Give your assistant a phone. VoiceAgent places real outbound phone calls for you — book a table, confirm or
+Give your assistant a phone. Phrok places real outbound phone calls for you — book a table, confirm or
 move an appointment, check opening hours — and reports back with the outcome, a short summary and the full
 transcript. Calls use a natural full-duplex AI voice, and the agent always says it is an AI calling on your behalf.
 
 ## Install
 
-Install **VoiceAgent** from the Grok Bot / Cursor plugin marketplace, then click **Authenticate**. You will be
+Install **Phrok** from the Grok Bot / Cursor plugin marketplace, then click **Authenticate**. You will be
 asked to log in or create a free account at [gb-voice-web.onrender.com](https://gb-voice-web.onrender.com) and
 approve access. No API keys to copy.
 
