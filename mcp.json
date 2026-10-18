@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "phrok": {
-      "url": "https://gb-voice-api.onrender.com/mcp"
+      "url": "https://api.phrok.us/mcp"
     }
   }
 }

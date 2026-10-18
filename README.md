@@ -7,12 +7,12 @@ transcript. Calls use a natural full-duplex AI voice, and the agent always says 
 ## Install
 
 Install **Phrok** from the Grok Bot / Cursor plugin marketplace, then click **Authenticate**. You will be
-asked to log in or create a free account at [gb-voice-web.onrender.com](https://gb-voice-web.onrender.com) and
+asked to log in or create a free account at [phrok.us](https://phrok.us) and
 approve access. No API keys to copy.
 
 The plugin contains:
 
-- `mcp.json` — the hosted MCP server `https://gb-voice-api.onrender.com/mcp` (Streamable HTTP, OAuth 2.1 with
+- `mcp.json` — the hosted MCP server `https://api.phrok.us/mcp` (Streamable HTTP, OAuth 2.1 with
   dynamic client registration and PKCE).
 - `skills/phone-calls` — instructions that teach the assistant to confirm before calling, poll for results and
   report briefly.
@@ -28,17 +28,17 @@ The plugin contains:
 
 Free trial (10 minutes, calls to your own verified number), Starter $29/month (120 minutes), Pro $99/month
 (500 minutes, all languages), plus prepaid credit packs that never expire. See the
-[pricing](https://gb-voice-web.onrender.com/#pricing).
+[pricing](https://phrok.us/#pricing).
 
 ## Safety
 
 Mandatory AI disclosure at the start of every call, do-not-call handling, premium-rate and emergency number
 blocking, rate limits, and email verification before the first call. See the
-[Acceptable Use Policy](https://gb-voice-web.onrender.com/legal/aup).
+[Acceptable Use Policy](https://phrok.us/legal/aup).
 
 ## Legal and support
 
 Operated by WorkHub Platform Inc., 1875 S. Bascom Ave, Suite 2400, Campbell, CA 95008, USA.
-[Terms](https://gb-voice-web.onrender.com/legal/terms) ·
-[Privacy](https://gb-voice-web.onrender.com/legal/privacy) ·
-[Imprint](https://gb-voice-web.onrender.com/legal/imprint) · Support: info@workhub.ai
+[Terms](https://phrok.us/legal/terms) ·
+[Privacy](https://phrok.us/legal/privacy) ·
+[Imprint](https://phrok.us/legal/imprint) · Support: info@workhub.ai
